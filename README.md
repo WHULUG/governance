@@ -7,3 +7,10 @@
 - [社团章程（草案）](./社团章程（草案）.docx)
 - [社团筹备细节](./关于WHULUG的细节.md)
 - [珞珈极客之道](./THE_WHULUG_WAY.md)
+
+## 许可 (License)
+
+本仓库中的所有文档内容除《社团章程（草案）》外均采用 Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) 许可协议发布。
+
+*   [查看完整许可证文本](LICENSE)
+*   [Creative Commons 官方网站](https://creativecommons.org/licenses/by-sa/4.0/)
